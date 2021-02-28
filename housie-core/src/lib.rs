@@ -1,3 +1,8 @@
+pub mod game;
+pub mod card;
+
+
+
 #[cfg(test)]
 mod tests {
     #[test]
